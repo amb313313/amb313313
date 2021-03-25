@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Babaei 🤓</h1>
-- 🔭 I’m currently working on Home 🏡 [AMB.py](No link 🔗)
+- 🔭 I’m currently working on Home 🏡
 
 - 📫 How to reach me **amirbabaie924@gmail.com**
 
