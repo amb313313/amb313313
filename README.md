@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @amb313313
-- 👀 I’m interested in Payton 
-- 🌱 I’m currently learning c++
 <h1 align="center">Hi 👋, I'm Amir Babaei 🤓</h1>
 - 🔭 I’m currently working on Home 🏡 [AMB.py](No link 🔗)
 
